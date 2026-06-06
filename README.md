@@ -32,13 +32,13 @@ Run the commands below from the `PSC-AVDN` directory.
 
 ### ANDH (sub-trajectory)
 
-**Step 1. Parse **
+**Step 1. Parse**
 
 ```bash
 python script/ANDH/Parsing.py
 ```
 
-**Step 2. Search and confirm destinations**
+**Step 2 and Step 3. Search and confirm destinations**
 
 ```bash
 python script/ANDH/Search_Confirmation.py
@@ -48,12 +48,12 @@ python script/ANDH/Search_Confirmation.py
 
 ### ANDH-Full (full trajectory)
 
-**Step 1. Parse **
+**Step 1. Parse**
 
 ```bash
 python script/ANDH-Full/Parsing.py
 ```
-**Step 2. Search and confirm destinations**
+**Step 2 and Step 3. Search and confirm destinations**
 
 ```bash
 python script/ANDH-Full/Search_Confirmation.py
