@@ -35,7 +35,7 @@ Run the commands below from the `PSC-AVDN` directory.
 **Step 1. Parse**
 
 ```bash
-python script/ANDH/Parsing.py
+python script/ANDH/Parse.py
 ```
 
 **Step 2 and Step 3. Search and confirm destinations**
@@ -51,7 +51,7 @@ python script/ANDH/Search_Confirmation.py
 **Step 1. Parse**
 
 ```bash
-python script/ANDH-Full/Parsing.py
+python script/ANDH-Full/Parse.py
 ```
 **Step 2 and Step 3. Search and confirm destinations**
 
